@@ -1,5 +1,23 @@
 .gh{
-    border: 5px;
+    border: 5px solid white;
     margin: 20px;
     background-color: skyblue;
+}
+.hg{
+    border: 5px solid white;
+    margin: 20px;
+    background-color: skyblue;
+
+}
+.tg{
+    border: 5px solid white;
+    margin: 20px;
+    background-color: skyblue;
+
+}
+.rel{
+    border: 5px solid white;
+    margin: 20px;
+    background-color: skyblue;
+
 }
